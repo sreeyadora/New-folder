@@ -189,30 +189,32 @@ Below are screenshots demonstrating the core functionality of the Email Schedule
 🔐 Login Page
 
 Shows Google authentication entry point for users.
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52792c90-6596-4ccf-8abf-c218f4f4620e" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43ff4a81-8153-403b-a193-a40090b8777a" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8a3a73-aaf2-47e8-bdad-d91add71dca6" />
 
 
 
 🏠 Dashboard
 
 Displays logged-in user details and navigation to email actions.
-![alt text](image-3.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/cfe3fb50-2a35-496a-a517-cd48e35f63c9" />
+
 
 
 
 ✉️ Compose Email
 
 Allows users to compose and schedule emails with recipient, subject, body, and timing.
-![alt text](image-6.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/40a8eed4-d414-46a9-98ae-a00abfddb1d7" />
+
 
 
 ⏳ Scheduled Emails
 
 Shows all emails that are queued and scheduled to be sent.
-![alt text](image-7.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730d0d46-3443-4773-97fd-a145f241c889" />
+
 
 
 ✅ Sent Emails
