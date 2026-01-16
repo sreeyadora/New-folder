@@ -1,4 +1,6 @@
 📧 ReachInbox – Email Scheduler (Full Stack Assignment)
+
+
 📌 Overview
 
 ReachInbox Email Scheduler is a full-stack web application that allows users to:
@@ -12,7 +14,9 @@ View scheduled and sent emails
 Handle background email processing using a queue system
 
 This project demonstrates frontend + backend integration, authentication flow, background workers, and database usage.
+
 📧 ReachInbox – Email Scheduler (Full Stack Assignment)
+
 📌 Overview
 
 ReachInbox Email Scheduler is a full-stack web application that allows users to:
