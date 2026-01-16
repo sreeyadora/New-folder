@@ -189,6 +189,7 @@ Below are screenshots demonstrating the core functionality of the Email Schedule
 🔐 Login Page
 
 Shows Google authentication entry point for users.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5d3ee406-4c44-47c8-a409-44ab9724997e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/52792c90-6596-4ccf-8abf-c218f4f4620e" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/43ff4a81-8153-403b-a193-a40090b8777a" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6e8a3a73-aaf2-47e8-bdad-d91add71dca6" />
